@@ -1,11 +1,13 @@
-# NOKORI
+# Legal Documents
 
-A simple budgeting app based on the 50/30/20 rule.
+## Apps
 
-## Legal
+### NOKORI
 
-- [Privacy Policy](./PRIVACY_POLICY.md)
-- [Terms of Service](./TERMS_OF_SERVICE.md)
+Daily Budget Tracker App
+
+- [Privacy Policy](./nokori/PRIVACY_POLICY.md)
+- [Terms of Service](./nokori/TERMS_OF_SERVICE.md)
 
 ## Contact
 
