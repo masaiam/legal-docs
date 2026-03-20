@@ -1,3 +1,4 @@
 title: Legal Documents
 description: Privacy Policies and Terms of Service
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+show_downloads: false
