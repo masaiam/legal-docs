@@ -1,0 +1,28 @@
+{
+  "cli_version": "0.4.5",
+  "checkpoint_id": "679d907d4d9e",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "_config.yml",
+    "index.md",
+    "nokori/index.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/67/9d907d4d9e/0/metadata.json",
+      "transcript": "/67/9d907d4d9e/0/full.jsonl",
+      "context": "/67/9d907d4d9e/0/context.md",
+      "content_hash": "/67/9d907d4d9e/0/content_hash.txt",
+      "prompt": "/67/9d907d4d9e/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 1474,
+    "cache_creation_tokens": 635460,
+    "cache_read_tokens": 17024539,
+    "output_tokens": 33816,
+    "api_call_count": 173
+  }
+}
